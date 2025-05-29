@@ -45,10 +45,10 @@ Usage
 
 By default:
 
-- ⌥⇧H — snap left
-- ⌥⇧L — snap right
-- ⌥C   — center
-- ⌥⇧C — center & resize
-- ⌥⇧F — maximize
+- <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>H</kbd> — snap left  
+- <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>L</kbd> — snap right  
+- <kbd>Option ⌥</kbd> + <kbd>C</kbd>                     — center  
+- <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>C</kbd> — center & resize  
+- <kbd>Option ⌥</kbd> + <kbd>Shift ⇧</kbd> + <kbd>F</kbd> — maximize  
 
 You can customize this in `config.def.h`.
